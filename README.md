@@ -1,4 +1,4 @@
 # JSON-Haskell-pretty-printer
-INF222 - Assignment 1
+INF222 - Programming Languages
 
 Pretty printing JSON objects represented in Haskell.
